@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shmorteen
-- 👀 I’m interested in Frontend Web development
+- 👀 I’m interested in Fullstack Web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me nettech224@gmail.com
